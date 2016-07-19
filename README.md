@@ -7,3 +7,4 @@
 
 # Go References
 - GoLangLibs : https://golanglibs.com/
+- Awesome-Go : https://github.com/avelino/awesome-go
