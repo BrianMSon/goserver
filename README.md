@@ -1,5 +1,3 @@
-# goserver
-
 # Go Server Install
 
 - Go Programming Language Download : https://golang.org/dl/
