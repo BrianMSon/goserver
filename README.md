@@ -11,9 +11,9 @@
 
 # My Go References
 - gallium : https://github.com/alexflint/gallium
-- config : https://github.com/olebedev/config
+- config (YAML, JSON) : https://github.com/olebedev/config
 - ansicolor : https://github.com/shiena/ansicolor
-- andlabs/ui : https://github.com/andlabs/ui
+- andlabs/ui (cross-platform GUI client) : https://github.com/andlabs/ui
 - termui : https://github.com/gizak/termui
 
 - gorilla/websocket : https://github.com/gorilla/websocket
