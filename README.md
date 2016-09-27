@@ -21,3 +21,5 @@
 
 - slackbot(mybot) : https://github.com/rapidloop/mybot
 - telegram-bot-api.v4 : https://github.com/go-telegram-bot-api/telegram-bot-api
+
+- simplessh (execute, upload, download) : https://github.com/sfreiberg/simplessh
