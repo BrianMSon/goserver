@@ -15,11 +15,8 @@
 - ansicolor : https://github.com/shiena/ansicolor
 - andlabs/ui (cross-platform GUI client) : https://github.com/andlabs/ui
 - termui : https://github.com/gizak/termui
-
 - gorilla/websocket : https://github.com/gorilla/websocket
-- iris/websocket : https://github.com/kataras/go-websocket
-
 - slackbot(mybot) : https://github.com/rapidloop/mybot
 - telegram-bot-api.v4 : https://github.com/go-telegram-bot-api/telegram-bot-api
-
 - simplessh (execute, upload, download) : https://github.com/sfreiberg/simplessh
+- xlsx2csv : https://github.com/tealeg/xlsx
