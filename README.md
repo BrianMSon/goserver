@@ -20,4 +20,4 @@
 - telegram-bot-api.v4 : https://github.com/go-telegram-bot-api/telegram-bot-api
 - simplessh (execute, upload, download) : https://github.com/sfreiberg/simplessh
 - xlsx2csv : https://github.com/tealeg/xlsx
-- gomail : gopkg.in/gomail.v2
+- gomail : https://github.com/go-gomail/gomail
