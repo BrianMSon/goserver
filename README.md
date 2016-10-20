@@ -21,3 +21,6 @@
 - simplessh (execute, upload, download) : https://github.com/sfreiberg/simplessh
 - xlsx2csv : https://github.com/tealeg/xlsx
 - gomail : https://github.com/go-gomail/gomail
+
+# Todo
+- GUI qt (therecipe) : https://github.com/therecipe/qt
