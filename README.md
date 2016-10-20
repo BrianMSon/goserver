@@ -10,7 +10,6 @@
 - Awesome-Go : https://github.com/avelino/awesome-go
 
 # My Go References
-- gallium : https://github.com/alexflint/gallium
 - config (YAML, JSON) : https://github.com/olebedev/config
 - ansicolor : https://github.com/shiena/ansicolor
 - andlabs/ui (cross-platform GUI client) : https://github.com/andlabs/ui
