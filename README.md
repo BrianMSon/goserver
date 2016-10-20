@@ -22,5 +22,6 @@
 - xlsx2csv : https://github.com/tealeg/xlsx
 - gomail : https://github.com/go-gomail/gomail
 
-# Todo
+# todo (looking)
 - GUI qt (therecipe) : https://github.com/therecipe/qt
+- gallim (desktop ui) : https://github.com/alexflint/gallium
